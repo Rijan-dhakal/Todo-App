@@ -7,4 +7,4 @@ A simple todo app using html, css and js.
 - Mark completed with checkbox
 
 # Live Demo
-- [View Live Site](https://your-project-name.netlify.app)
+- [View Live Site](https://todoapp888.netlify.app)
