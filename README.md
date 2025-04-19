@@ -1,4 +1,4 @@
-## todo-app
+## Todo-App
 A simple todo app using html, css and js.
 
 # Features
